@@ -1,5 +1,16 @@
 
 /*   * {border: 1px solid black;}  */
-html, body { height: 100%;}
-body { margin: 0;box-sizing: border-box;}
-img { max-width: 100%;}
+html, body {
+  height: 100%;
+}
+body {
+  margin: 0;
+  box-sizing: border-box;
+  background: #000000 url('img/wolf2.jpeg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+img {
+  max-width: 100%;
+}
